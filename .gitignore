@@ -1,0 +1,10 @@
+*.png
+*.jpg
+*.tar.gz
+*.pkl
+*.gz
+*.tar
+
+__pycache__
+.ipynb_checkpoints
+.virtual_documents
